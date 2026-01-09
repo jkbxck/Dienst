@@ -1,2 +1,2 @@
-# Dienst
-Dienst TSV Seckmauern
+# Bezahlen
+Asterix und Obelix TSV Seckmauern
